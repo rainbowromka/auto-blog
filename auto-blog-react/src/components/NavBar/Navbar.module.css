@@ -1,0 +1,24 @@
+.nav {
+    grid-area: n;
+    background-color: #206676;
+    padding: 10px;
+}
+
+.item {
+    color: aquamarine;
+    font-weight: normal;
+}
+
+.item:hover {
+    color: #fd9b5b;
+}
+
+.item {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+.active{
+    color: #f386bb;
+    font-weight: bolder;
+}
